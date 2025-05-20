@@ -6,4 +6,5 @@
 4. Run `astro dev init` in this folder
     - it will create files and folders
 5. Create `docker-compose.override.yml`
-6. Run `astro dev start`
+6. Add Java instalation into `.Dockerfile`
+7. Run `astro dev start`
